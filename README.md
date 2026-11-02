@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.png" alt="Dagim Demissew — Software Engineering and Full-Stack Development" width="100%">
+  <img src="./assets/profile-banner[1].png" alt="Dagim Demissew — Software Engineering and Full-Stack Development" width="100%">
 </div>
 
 <div align="center">
