@@ -11,9 +11,11 @@
 
 ## `whoami`
 
-I'm a Software Engineering student at **Wollo University** in Ethiopia. I like understanding how software works beneath the interface, then turning that understanding into something I can build and test.
+I'm a Software Engineering student at Wollo University, Ethiopia, with a strong interest in building software and figuring out how things work behind the scenes.
 
-My main interest is full-stack development. I work with Laravel, Vue.js, Django and Python, and I also have experience with Java and C++. I'm still learning, building, and improving — this profile is where I keep track of that work.
+I enjoy taking ideas and turning them into working applications. Most of my work has been around full-stack development.
+
+I'm always looking for opportunities to learn something new, take on challenging projects, and become a better developer through hands-on experience.
 
 ## What I work with
 
@@ -104,10 +106,9 @@ Startup team member · Jan 2026
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dagi-D-Flash&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub statistics">
-<img src="https://streak-stats.demolab.com?user=Dagi-D-Flash&hide_border=true&theme=transparent" height="165" alt="Contribution streak">
+<img src="https://raw.githubusercontent.com/Dagi-D-Flash/Dagi-D-Flash/output/profile-stats.svg" width="100%" alt="GitHub profile statistics">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dagi-D-Flash&hide_border=true&area=true&theme=github-compact" width="100%" alt="GitHub activity graph">
+<img src="https://raw.githubusercontent.com/Dagi-D-Flash/Dagi-D-Flash/output/contribution-activity.svg" width="100%" alt="GitHub contribution activity over the last 12 months">
 
 <img src="https://raw.githubusercontent.com/Dagi-D-Flash/Dagi-D-Flash/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake">
 
