@@ -15,6 +15,12 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v4
 
+      - name: Generate self-hosted statistics and activity graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: node .github/scripts/generate-profile.mjs
+
       - name: Generate animated contribution snake
         uses: Platane/snk@v3
         with:
@@ -23,16 +29,18 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Generate self-hosted statistics and activity graph
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-        run: node .github/scripts/generate-profile.mjs
+      - name: Combine generated SVG files
+        run: |
+          mkdir -p publish
+          cp -R profile-dist/. publish/
+          cp -R dist/. publish/
+          echo "Files prepared for publishing:"
+          ls -lah publish/
 
       - name: Publish generated SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: publish
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
