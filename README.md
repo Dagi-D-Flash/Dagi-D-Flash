@@ -1,70 +1,122 @@
-::: {align="center"}
-# Dagim Demissew
+<div align="center">
 
-**Software Engineering student · Full-stack development**
+<img src="assets/hero.gif" alt="Dagim Demissew — Building software, learning by building" width="100%">
 
-Wollo University · Ethiopia
+<br>
 
-`<a href="https://www.linkedin.com/in/dagim-demissew-b1444a366/">`{=html}LinkedIn`</a>`{=html}
- · 
-`<a href="https://github.com/Dagi-D-Flash">`{=html}GitHub`</a>`{=html}
-:::
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagim-demissew-b1444a366/)
+[![GitHub](https://img.shields.io/badge/GitHub-Dagi--D--Flash-181717?style=flat-square&logo=github)](https://github.com/Dagi-D-Flash)
 
-------------------------------------------------------------------------
+</div>
 
-## About
+## `whoami`
 
-I'm studying Software Engineering at Wollo University. I spend much of
-my time building projects, exploring how software systems work, and
-improving the way I write and structure code.
+I'm a Software Engineering student at **Wollo University** in Ethiopia. I like understanding how software works beneath the interface, then turning that understanding into something I can build and test.
 
-I'm particularly interested in full-stack development. I enjoy working
-across the application --- from the user interface to the backend logic
-and data layer --- and I'm continuing to deepen my understanding through
-coursework and personal projects.
+My main interest is full-stack development. I work with Laravel, Vue.js, Django and Python, and I also have experience with Java and C++. I'm still learning, building, and improving — this profile is where I keep track of that work.
 
-I'm currently working with Laravel, Vue.js, Django, and Python, while
-also building my foundations in Java and C++.
+## What I work with
 
-## Tools I work with
+<div align="center">
 
-```{=html}
-<p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=php,laravel,vue,js,python,django,java,cpp,mysql,sqlite,git,github,vscode&perline=7" alt="Technologies and tools" />`{=html}
-```{=html}
-</p>
-```
-## Projects
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,js,python,django,java,cpp,mysql,sqlite,git,github&perline=6" alt="Technologies" />
 
-A few repositories from my work and learning:
+</div>
 
--   [GeniusGuide-WEB](https://github.com/Dagi-D-Flash/GeniusGuide-WEB)
--   [Face-Detection-App](https://github.com/Dagi-D-Flash/Face-Detection-App)
--   [smart-study-assistant](https://github.com/Dagi-D-Flash/smart-study-assistant)
--   [student-grade-management-system](https://github.com/Dagi-D-Flash/student-grade-management-system)
+## Selected work
 
-I keep improving these projects as I learn. The repositories contain the
-most accurate details about their current implementation.
+These are repositories on my GitHub. Open each one for its current README, implementation and source code.
+
+| Project | Repository |
+|---|---|
+| GeniusGuide WEB | [GeniusGuide-WEB](https://github.com/Dagi-D-Flash/GeniusGuide-WEB) |
+| Face Detection App | [Face-Detection-App](https://github.com/Dagi-D-Flash/Face-Detection-App) |
+| Smart Study Assistant | [smart-study-assistant](https://github.com/Dagi-D-Flash/smart-study-assistant) |
+| Student Grade Management System | [student-grade-management-system](https://github.com/Dagi-D-Flash/student-grade-management-system) |
+
+## Credentials & learning
+
+A selection of courses and participation certificates. Select a preview to open the original certificate file in this repository.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Laravel 13 & Vue 3 — Full Stack REST API + Inertia.js SPA**
+
+<img src="assets/certificates/laravel-vue-full-stack.png" width="100%" alt="Laravel and Vue course certificate">
+
+TutsPrime Online Education · 37.5 hours · Nov 2, 2026
+
+[View original PDF](assets/certificates/laravel-vue-full-stack.pdf)
+
+</td>
+<td width="50%" valign="top">
+
+**Android Developer Fundamentals**
+
+<img src="assets/certificates/android-developer-fundamentals.png" width="100%" alt="Udacity Android Developer Fundamentals certificate">
+
+Udacity · Feb 7, 2026
+
+[View original PDF](assets/certificates/android-developer-fundamentals.pdf)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Programming Fundamentals**
+
+<img src="assets/certificates/programming-fundamentals.png" width="100%" alt="Udacity Programming Fundamentals certificate">
+
+Udacity · Feb 7, 2026
+
+[View original PDF](assets/certificates/programming-fundamentals.pdf)
+
+</td>
+<td width="50%" valign="top">
+
+**The Ultimate HTML5 & CSS3 Series**
+
+<img src="assets/certificates/html5-css3-series.png" width="100%" alt="Code with Mosh HTML5 and CSS3 certificate">
+
+Code with Mosh · Sep 30, 2025
+
+[View original image](assets/certificates/html5-css3-mosh-original.png)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**Hult Prize — Wollo University**
+
+<img src="assets/certificates/hult-prize-wollo-university.jpg" width="75%" alt="Hult Prize participation certificate">
+
+Startup team member · Jan 2026
+
+</td>
+</tr>
+</table>
 
 ## GitHub activity
 
-::: {align="center"}
-`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dagi-D-Flash&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />`{=html}
-`<img width="49%" src="https://streak-stats.demolab.com?user=Dagi-D-Flash&hide_border=true&theme=transparent" alt="GitHub contribution streak" />`{=html}
-:::
+<div align="center">
 
-::: {align="center"}
-`<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dagi-D-Flash&hide_border=true&area=true&theme=github-compact" alt="GitHub contribution activity graph" />`{=html}
-:::
+<img src="https://github-readme-stats.vercel.app/api?username=Dagi-D-Flash&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub statistics">
+<img src="https://streak-stats.demolab.com?user=Dagi-D-Flash&hide_border=true&theme=transparent" height="165" alt="Contribution streak">
 
-::: {align="center"}
-`<img src="https://raw.githubusercontent.com/Dagi-D-Flash/Dagi-D-Flash/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />`{=html}
-:::
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dagi-D-Flash&hide_border=true&area=true&theme=github-compact" width="100%" alt="GitHub activity graph">
 
-------------------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/Dagi-D-Flash/Dagi-D-Flash/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake">
 
-::: {align="center"}
-`<sub>`{=html}Learning by building. Improving one project at a
-time.`</sub>`{=html}
-:::
+</div>
+
+---
+
+<div align="center">
+
+*Learning by building. Improving one project at a time.*
+
+</div>
