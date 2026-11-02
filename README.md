@@ -1,98 +1,80 @@
+<div align="center">
+  <img src="./assets/profile-banner.png" alt="Dagim Demissew — Software Engineering and Full-Stack Development" width="100%">
+</div>
 
 <div align="center">
 
-# DAGIM DEMISSEW
+# Dagim Demissew
 
 ### Software Engineering Student · Full-Stack Developer
 
-**Building · Learning · Innovating**
+I build software applications and enjoy turning ideas into practical solutions.
 
-Engineering ideas into practical software solutions.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dagim-demissew-b1444a366/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Dagi-D-Flash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagim-demissew-b1444a366/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dagi-D-Flash)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a Software Engineering student at **Wollo University**, currently entering my fourth year, with a cumulative GPA of **4.0**.
+I'm a Software Engineering student at **Wollo University**, entering my fourth year, with a **4.0 cumulative GPA**.
 
-I enjoy designing and developing software applications, solving engineering problems, and transforming ideas into functional solutions.
+My main interest is **full-stack development**. I enjoy working across the application stack, understanding how software systems fit together, and building projects that solve practical problems.
 
-My development experience includes full-stack web applications, backend development, and desktop application development.
+- 🎓 Software Engineering student at Wollo University
+- 💻 Focused on full-stack application development
+- 🧩 Interested in backend engineering, application design, and problem-solving
+- 📚 Continuously developing my technical and engineering skills
+- 🌍 Open to learning, collaboration, and international opportunities
 
-- 🎓 Software Engineering student at Wollo University.
-- 💻 Focused on Full-Stack Development.
-- 🏗️ Interested in building practical and scalable software.
-- 🧠 Passionate about problem-solving and software engineering.
-- 🌍 Interested in international opportunities and collaboration.
-- 📚 Committed to continuous technical growth.
+## Technologies
 
----
-
-## ⚡ Technical Expertise
-
-**Programming Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Web Development**
+**Web development**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-**Desktop Development**
+**Desktop development**
 
-![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Development Tools**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
+## Public repositories
 
-## 🚀 Selected Projects
+A selection of repositories currently available on my GitHub profile:
 
-Here are some of my public repositories:
-
-| Project | Description |
+| Repository | What you'll find |
 |---|---|
-| [GeniusGuide-WEB](https://github.com/Dagi-D-Flash/GeniusGuide-WEB) | Web-based software project |
-| [Face-Detection-App](https://github.com/Dagi-D-Flash/Face-Detection-App) | Face detection application |
-| [Smart Study Assistant](https://github.com/Dagi-D-Flash/smart-study-assistant) | Personalized e-learning platform |
-| [Student Grade Management](https://github.com/Dagi-D-Flash/student-grade-management-system) | Student grade management system |
+| [GeniusGuide-WEB](https://github.com/Dagi-D-Flash/GeniusGuide-WEB) | A web project |
+| [Face-Detection-App](https://github.com/Dagi-D-Flash/Face-Detection-App) | A face-detection application |
+| [smart-study-assistant](https://github.com/Dagi-D-Flash/smart-study-assistant) | An e-learning platform with personalized study assistance and learning tools |
+| [student-grade-management-system](https://github.com/Dagi-D-Flash/student-grade-management-system) | A student grade-management application |
 
----
+> Project descriptions will be expanded as each repository's implementation and documentation are reviewed.
 
-## 📊 GitHub
+## Connect
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagi-D-Flash&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Dagi-D-Flash)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagi-D-Flash&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Dagi-D-Flash)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with software engineers, developers, researchers, and technology professionals.
+I'm interested in connecting with developers, software engineers, and people who enjoy building useful technology.
 
 - **LinkedIn:** [Dagim Demissew](https://www.linkedin.com/in/dagim-demissew-b1444a366/)
 - **GitHub:** [Dagi-D-Flash](https://github.com/Dagi-D-Flash)
 
 <div align="center">
 
-*Build with purpose. Learn continuously. Engineer the future.*
+*Build with purpose. Learn continuously. Keep engineering.*
 
 </div>
