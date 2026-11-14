@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190">
+<title>Dagi-D-Flash GitHub profile statistics</title>
+<defs><linearGradient id="g"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect x="1" y="1" width="958" height="188" rx="18" fill="#0b1220" stroke="#263449"/>
+<text x="34" y="43" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20" font-weight="700">GITHUB / OVERVIEW</text>
+<text x="925" y="42" text-anchor="end" fill="#94a3b8" font-family="Arial,sans-serif" font-size="12">LIVE PROFILE DATA</text>
+<rect x="34" y="58" width="892" height="2" rx="1" fill="url(#g)"/>
+<g font-family="Arial,sans-serif">
+<text x="48" y="112" fill="#94a3b8" font-size="13">CONTRIBUTIONS · LAST 12 MONTHS</text>
+<text x="48" y="157" fill="#f8fafc" font-size="34" font-weight="700">227</text>
+<text x="365" y="112" fill="#94a3b8" font-size="13">PUBLIC REPOSITORIES</text>
+<text x="365" y="157" fill="#f8fafc" font-size="34" font-weight="700">6</text>
+<text x="680" y="112" fill="#94a3b8" font-size="13">FOLLOWERS</text>
+<text x="680" y="157" fill="#f8fafc" font-size="34" font-weight="700">3</text>
+</g></svg>
