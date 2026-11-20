@@ -25,17 +25,6 @@ I'm always looking for opportunities to learn something new, take on challenging
 
 </div>
 
-## Selected work
-
-These are repositories on my GitHub. Open each one for its current README, implementation and source code.
-
-| Project | Repository |
-|---|---|
-| GeniusGuide WEB | [GeniusGuide-WEB](https://github.com/Dagi-D-Flash/GeniusGuide-WEB) |
-| Face Detection App | [Face-Detection-App](https://github.com/Dagi-D-Flash/Face-Detection-App) |
-| Smart Study Assistant | [smart-study-assistant](https://github.com/Dagi-D-Flash/smart-study-assistant) |
-| Student Grade Management System | [student-grade-management-system](https://github.com/Dagi-D-Flash/student-grade-management-system) |
-
 ## Credentials & learning
 
 A selection of courses and participation certificates. Select a preview to open the original certificate file in this repository.
